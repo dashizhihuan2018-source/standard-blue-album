@@ -1,0 +1,43 @@
+[
+ {
+  "t": "cover"
+ },
+ {
+  "t": "colophon"
+ },
+ {
+  "t": "toc"
+ },
+ {
+  "t": "chapter"
+ },
+ {
+  "t": "content"
+ },
+ {
+  "t": "content"
+ },
+ {
+  "t": "hybrid",
+  "below_top": 12.953
+ },
+ {
+  "t": "chapter"
+ },
+ {
+  "t": "content"
+ },
+ {
+  "t": "table"
+ },
+ {
+  "t": "content"
+ },
+ {
+  "t": "gallery",
+  "below_top": 21.88
+ },
+ {
+  "t": "back_cover"
+ }
+]
